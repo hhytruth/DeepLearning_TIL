@@ -1,0 +1,13 @@
+DEEP LEARNING TIL
+
+
+<LEC 05-1>Logistic Classification의 가설 함수 정의
+
+-중요한 알고리즘
+-0,1 encoding
+
+-Linear regression
+	:가설이 0 미만이거나 1초과인 값을 줄 수 있다.
+
+
+
