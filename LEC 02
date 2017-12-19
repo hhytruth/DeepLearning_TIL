@@ -1,0 +1,18 @@
+DEEP LEARNING TIL
+
+
+<LEC 02>Linear Regression의 Hypothesis와 cost 설명
+
+H(x) = Wx + b
+
+어떤 가설이 더 좋은가?
+: 기본적으로 가설과 실제 데이터와의 거리를 계산해 가까울수록 좋은 가설
+
+-Cost function(Loss function)
+: How fit the line to our (training) data
+	distance: (H(x)-y)^2로 계산
+
+
+
+목표: cost를 최소화하는 것!
+
