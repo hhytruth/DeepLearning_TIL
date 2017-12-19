@@ -1,0 +1,17 @@
+DEEP LEARNING TIL
+
+
+<LEC 01>기본적인 Machine Learning의 용어와 개념 설명
+-MACHINE LEARNING
+ : limitations of explicit programming->
+
+-SUPERVISED/UNSUPERVISED LEARNING
+ supervised: 정해진 데이터, 레이블드된 예로 학습
+ unsupervised: un-labeled data->스스로 학습
+
+-SUPERVISED LEARNING
+ #training data set
+ #types: regression(score expectations)
+	binary classification(pass/non-pass based on time spent)
+	multi-label classification(letter grade(a,b,c,d,e..))
+  
