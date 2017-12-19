@@ -1,0 +1,17 @@
+DEEP LEARNING TIL
+
+
+<LEC 05-2>Logistic Regression의 cost 함수 설명
+
+-linear regression의 cost 함수와는 다른 새로운 cost 함수가 필요
+
+ C(H(x),y) = -log(H(x))			:y=1
+	     = -log(1-H(x))			:y=0
+
+final:
+C: (H(x),y) = -ylog( H(x) )-( 1-y )log( 1-H(x) )
+
+
+
+
+-Logistic Regression: Gradient decent algorithm
