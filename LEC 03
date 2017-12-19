@@ -1,0 +1,23 @@
+DEEP LEARNING TIL
+
+
+<LEC 03>Linear Regression 의 cost 최소화 알고리즘의 원리 설명
+
+
+
+-Gradient descent algorithm
+:minimize cost function
+:많은 값들이 있는 cost function도 최소화 가능
+
+-어떻게 가장 낮은 지점을 찾는가?
+
+처음의 추측으로 시작
+W와 b 값을 조금씩 바꾸면서 cost(W,b)를 줄이려고 한다.
+파라미터를 바꿀 때마다 cost를 줄이는 gradient를 선택한다.
+반복
+최소값을 찾을 때까지 반복
+어디서 시작하느냐에 따라 어떤 최소값을 갖는지가 달라질 수 있다.
+
+
+
+
